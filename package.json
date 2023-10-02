@@ -1,0 +1,12 @@
+{
+  "name": "@tirka/parcel-transformer-nunjucks",
+  "version": "2.9.3",
+  "license": "MIT",
+  "source": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "@parcel/plugin": "~2.9.3",
+    "@parcel/core": "~2.9.3",
+    "nunjucks": "^3.2.4"
+  }
+}
